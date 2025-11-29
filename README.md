@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+SQL and Relational Databases 101 Certificate: https://courses.cognitiveclass.ai/certificates/fcfc3a3fec034043b661bab1ab8a24e1
