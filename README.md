@@ -10,7 +10,7 @@
 <br> </br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E97F3B23AA5BD344CC907C10823C6AFE372CD9E53A4C0CF401666488C9294460">Oracle Data Platform Foundations Associate Certificate</a>
 <br> </br>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E97F3B23AA5BD344CC907C10823C6AFE372CD9E53A4C0CF401666488C9294460">OCI AI Foundations Associate Certificate</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E379AB013C7E1D2103CFB2FFAA6CC84A99D7802D90E4B22CC180B14BAB660AC8">OCI AI Foundations Associate Certificate</a>
 
 
 
